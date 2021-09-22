@@ -8,5 +8,6 @@ button {
   margin: 20px;
   padding: 10px;
   border-width: 3px;
+  border-style: double;
   border-color: darkgray;
 }
