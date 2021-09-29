@@ -2,7 +2,7 @@ const languages = ['html', 'css', 'javascipt', 'react', 'node', 'postgres']
 ;
 console.log(languages);
 
-var firstElement = 'html'
+var firstElement = languages[0]
 ;
 console.log('the first element of the array is ' + firstElement)
 ;
