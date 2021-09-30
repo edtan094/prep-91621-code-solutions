@@ -52,7 +52,7 @@ var getFullNameResult = getFullName('Edwin', 'Tan');
 console.log('getFullName', getFullNameResult);
 
 function cube(number) {
-  return number ^ 3;
+  return number * number * number;
 }
 var getCubeResult = cube(5);
 console.log('cube', getCubeResult);
